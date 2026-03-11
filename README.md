@@ -1,1 +1,7 @@
-# Real-vs-AI-Faces-Project
+__pycache__/
+*.pyc
+*.pth
+runs/
+dataset/
+.env
+.DS_Store
